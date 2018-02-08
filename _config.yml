@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Alin's workshop
 author: Alin Ciuca
-email: alingabriel.ciuca[at]gmail.com
+email: alingabriel.ciuca@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a way for me to share some of the work that I do in general.
   Building enterprise and creating closed source software makes life hard
