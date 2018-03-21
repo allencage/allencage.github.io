@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+  http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Generated with pretzel -->
+  
+  <url>
+    <loc>http://domain/2018/03/21/myfirstpost.1.html</loc>
+    <lastmod>2018-03-21T00:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  
+  <url>
+    <loc>http://domain/2018/03/21/secondpost.1.html</loc>
+    <lastmod>2018-03-21T00:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  
+  <url>
+    <loc>http://domain/2018/03/21/secondpost.2.html</loc>
+    <lastmod>2018-03-21T00:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  
+  <url>
+    <loc>http://domain/2018/03/21/secondpost.3.html</loc>
+    <lastmod>2018-03-21T00:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  
+  <url>
+    <loc>http://domain/2018/03/21/secondpost.4.html</loc>
+    <lastmod>2018-03-21T00:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  
+  <url>
+    <loc>http://domain/2018/03/21/secondpost.5.html</loc>
+    <lastmod>2018-03-21T00:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  
+  <url>
+    <loc>http://domain/2018/03/21/secondpost.6.html</loc>
+    <lastmod>2018-03-21T00:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  
+  <url>
+    <loc>http://domain/2018/03/21/secondpost.7.html</loc>
+    <lastmod>2018-03-21T00:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  
+  <url>
+    <loc>http://domain/2018/03/21/secondpost.8.html</loc>
+    <lastmod>2018-03-21T00:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  
+  <url>
+    <loc>http://domain/2018/03/21/secondpost.9.html</loc>
+    <lastmod>2018-03-21T00:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  
+  <url>
+    <loc>http://domain/2017/03/21/secondpost.html</loc>
+    <lastmod>2017-03-21T00:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  
+  
+  
+	
+	<url>
+		<loc>http://domain/about.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	
+  
+	
+	<url>
+		<loc>http://domain/atom.xml</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	
+  
+	
+	<url>
+		<loc>http://domain/index.html</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	
+  
+	
+	<url>
+		<loc>http://domain/rss.xml</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	
+  
+	
+	<url>
+		<loc>http://domain/sitemap.xml</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.00</priority>
+	</url>
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+	
+  
+</urlset>

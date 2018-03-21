@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title> | </title>
+    <link></link>
+    <atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Personal blog of </description>
+    <language>en-us</language>
+    <pubDate>Wed, 21 Mar 2018 15:52:54 +0200</pubDate>
+    <lastBuildDate>Wed, 21 Mar 2018 15:52:54 +0200</lastBuildDate>
+    
+    <item>
+      <title>My First Post</title>
+      <link>/2018/03/21/myfirstpost.1.html</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0200</pubDate>
+      <author>alingabriel.ciuca@gmail.com ()</author>
+      <guid isPermaLink="true">/2018/03/21/myfirstpost.1.html</guid>
+      <description>&lt;h2&gt;Hello world...&lt;/h2&gt;
+&lt;pre&gt;&lt;code class=&quot;language-cs&quot;&gt;static void Main() 
+{
+    Console.WriteLine(&amp;quot;Hello World!&amp;quot;);
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;This is my first post on the site!
+This is my first post on the site!This is my first post on the site!This is my first post on the site!This is my first post on the site!
+This is my first post on the site!
+This is my first post on the site!
+This is my first post on the site!
+This is my first post on the site!
+This is my first post on the site!
+This is my first post on the site!
+This is my first post on the site!
+This is my first post on the site!
+This is my first post on the site!
+This is my first post on the site!
+This is my first post on the site!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>/2018/03/21/secondpost.1.html</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0200</pubDate>
+      <author>alingabriel.ciuca@gmail.com ()</author>
+      <guid isPermaLink="true">/2018/03/21/secondpost.1.html</guid>
+      <description>&lt;p&gt;This should be my second post&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>/2018/03/21/secondpost.2.html</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0200</pubDate>
+      <author>alingabriel.ciuca@gmail.com ()</author>
+      <guid isPermaLink="true">/2018/03/21/secondpost.2.html</guid>
+      <description>&lt;p&gt;This should be my second post&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>/2018/03/21/secondpost.3.html</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0200</pubDate>
+      <author>alingabriel.ciuca@gmail.com ()</author>
+      <guid isPermaLink="true">/2018/03/21/secondpost.3.html</guid>
+      <description>&lt;p&gt;This should be my second post&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>/2018/03/21/secondpost.4.html</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0200</pubDate>
+      <author>alingabriel.ciuca@gmail.com ()</author>
+      <guid isPermaLink="true">/2018/03/21/secondpost.4.html</guid>
+      <description>&lt;p&gt;This should be my second post&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>/2018/03/21/secondpost.5.html</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0200</pubDate>
+      <author>alingabriel.ciuca@gmail.com ()</author>
+      <guid isPermaLink="true">/2018/03/21/secondpost.5.html</guid>
+      <description>&lt;p&gt;This should be my second post&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>/2018/03/21/secondpost.6.html</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0200</pubDate>
+      <author>alingabriel.ciuca@gmail.com ()</author>
+      <guid isPermaLink="true">/2018/03/21/secondpost.6.html</guid>
+      <description>&lt;p&gt;This should be my second post&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>/2018/03/21/secondpost.7.html</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0200</pubDate>
+      <author>alingabriel.ciuca@gmail.com ()</author>
+      <guid isPermaLink="true">/2018/03/21/secondpost.7.html</guid>
+      <description>&lt;p&gt;This should be my second post&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>/2018/03/21/secondpost.8.html</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0200</pubDate>
+      <author>alingabriel.ciuca@gmail.com ()</author>
+      <guid isPermaLink="true">/2018/03/21/secondpost.8.html</guid>
+      <description>&lt;p&gt;This should be my second post&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>/2018/03/21/secondpost.9.html</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0200</pubDate>
+      <author>alingabriel.ciuca@gmail.com ()</author>
+      <guid isPermaLink="true">/2018/03/21/secondpost.9.html</guid>
+      <description>&lt;p&gt;This should be my second post&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>/2017/03/21/secondpost.html</link>
+      <pubDate>Tue, 21 Mar 2017 00:00:00 +0200</pubDate>
+      <author>alingabriel.ciuca@gmail.com ()</author>
+      <guid isPermaLink="true">/2017/03/21/secondpost.html</guid>
+      <description>&lt;p&gt;2017&lt;/p&gt;</description>
+    </item>
+    
+  </channel> 
+</rss>
