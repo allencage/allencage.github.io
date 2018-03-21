@@ -23,7 +23,7 @@ github_username:  allencage
 
 # Build settings
 markdown: kramdown
-remote-theme: minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
